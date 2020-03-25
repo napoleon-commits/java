@@ -1,0 +1,4 @@
+Write this string to my file!
+This is my content. It will be written to an existing file, but not override it!
+
+This will be added to the end of an existing file
